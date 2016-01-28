@@ -26,10 +26,10 @@ RC1 9/12/2016
 
 3.0 10/24/2016
 
-The first couple of betas will be thin on some features as we are still incorporating them. They can actually be thought more as Alpha builds. Please be patient as we both incorporate features and work on the issue list during the first few builds.
+The first couple of betas will be thin on some features as we are still incorporating them. They can actually be thought of more as Alpha builds. Please be patient as we both incorporate features and work on the issue list during the first few builds.
 
 Please do not share anything from the builds, issues, or enhancements outside of this group.
 
 Happy Testing!
 
-Ryan
+LightShow Studios Team
