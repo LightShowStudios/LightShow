@@ -2,6 +2,11 @@
 
 Welcome to the LightShow Repository for beta testers!
 
+Beta Downloads can be found at the following location:
+https://www.dropbox.com/sh/64td64i7bo9w71k/AAAPOdpn9miz94daNzO4w5cWa?dl=0
+
+Please do not share this link.
+
 This repository will be used to track issues that you find during beta testing. There will be no code stored in this repository. It is in a separate repository that Jeff an I will use, but when we commit our changes in that repository, we can actually link to the issues in this repository to close the issue. Hopefully this will make it easier to keep track of what we need to work on bug wise and also what you have already reported to us.
 
 After beta testing is complete, we will continue to use this as our issue tracker for the release. Our users will not have access to this list and it will require our testers (you) to enter issues, if needed, as users submit support tickets.
